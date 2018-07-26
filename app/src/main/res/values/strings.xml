@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Timebot</string>
+    <string name="activity_to_do_list">任务列表</string>
+
+    <string name="textview">TextView</string>
+    <string name="txvName">名称：</string>
+    <string name="txvTimeStart">开始时间：</string>
+    <string name="txvTimeEnd">结束时间：</string>
+    <string name="confirm">添加任务</string>
+
+
+
+</resources>
